@@ -1,0 +1,174 @@
+﻿  CourseworkGame.cpp
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(616,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(617,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(618,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(621,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(621,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(630,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(633,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(634,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(635,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(635,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(636,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(636,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(637,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(637,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(638,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(654,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(668,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(669,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(676,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(677,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(678,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(679,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(680,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(681,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(687,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(688,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(689,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(708,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(709,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(710,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(711,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(715,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(716,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(717,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(735,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(736,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(737,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(741,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(741,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(742,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(743,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(744,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(745,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(746,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(750,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(751,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(752,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(753,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(755,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(755,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(756,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(757,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(759,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(760,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(762,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(767,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(805,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(805,22): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(806,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(806,25): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(826,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(826,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(827,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(827,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(828,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(828,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(829,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(829,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(841,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(841,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(842,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(842,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(843,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(843,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(845,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(845,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(846,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(846,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(847,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(847,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(849,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(849,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(850,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(850,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(851,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(851,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(853,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(853,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(854,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(854,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(855,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(855,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(869,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(869,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(870,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(870,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(871,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(871,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(872,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(872,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(873,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(873,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(874,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(874,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(876,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(876,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(878,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(878,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(879,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(879,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(880,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(880,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(881,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(881,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(882,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(882,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(891,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(891,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(892,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(892,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(893,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(893,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(894,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(894,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(896,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(896,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(897,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(897,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(898,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(898,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(899,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(899,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(908,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(908,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(909,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(909,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(910,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(910,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(911,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(911,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(912,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(912,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(913,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(913,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(914,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(914,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(915,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(915,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(949,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(949,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(950,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(950,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(951,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(951,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(961,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(961,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(962,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(962,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(963,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(963,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(964,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(964,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(982,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(982,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(983,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(983,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(1116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(1194,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(1195,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\GameTech\CourseworkGame.cpp(1375,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameTech.vcxproj -> C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\Win32\Debug\GameTech.exe

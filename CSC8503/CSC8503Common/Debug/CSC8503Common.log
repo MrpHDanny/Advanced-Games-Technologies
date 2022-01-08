@@ -1,0 +1,5 @@
+﻿  PhysicsSystem.cpp
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\CSC8503\CSC8503Common\PhysicsSystem.cpp(386,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CSC8503Common.vcxproj -> C:\Users\upsid\Desktop\8503 Release  2021\8503 Release  2021\Win32\Debug\CSC8503Common.lib
