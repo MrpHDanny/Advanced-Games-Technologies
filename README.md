@@ -47,7 +47,7 @@ Example of the loss screen.
 
 Implemented Features Descriptions
 
-Player Movement:
+**Player Movement:**
 
 •	Player can move: Player ball can moves in both levels;
 
@@ -57,7 +57,7 @@ Player Movement:
 
 •	Player uses torque/impulses for rotation: Yes – ImpulseResolveCollision() in PhysicsSystem.cpp;
 
-AABB and Sphere Collisions:
+**AABB and Sphere Collisions:**
 
 •	Sphere/Sphere: Implemented – SphereIntersection() in CollisionDetection.cpp;
 
@@ -65,7 +65,7 @@ AABB and Sphere Collisions:
 
 •	AABB/AABB: Implemented – AABBIntersection() in CollisionDetection.cpp;
 
-Basic Extra Collisions: 
+**Basic Extra Collisions:** 
 
 •	Something vs Plane: Ray/Plane Intersections implemented in RayBoxIntersection() in CollisionDetection.cpp;
 
@@ -73,7 +73,7 @@ Basic Extra Collisions:
 
 •	Raycast vs world for debug info: All raycast intersection types implemented in CollisionDetection.cpp, debug info drawing on screen implemented in DrawDebugInfo() in CourseworkGame.cpp;
 
-Collision Resolution:
+**Collision Resolution:**
 
 •	Projection method used: Yes – ImpulseResolveCollision() in PhysicsSystem.cpp;
 
@@ -83,7 +83,7 @@ Collision Resolution:
 
 •	Penalty method used somewhere: Spring separation added in ImpulseResolveCollision() in PhysicsSystem.cpp, also is used in Level 1 to make attach a sphere to the player ball as an obstacle – AttachSpringTo() and UpdateSprings() in GameObject.cpp;
 
-Stateful Behaviour: 
+**Stateful Behaviour: 
 
 •	Simple menu implemented: Yes, CreateMenu() and DrawMenu() in CourseworkGame.cpp;
 
