@@ -83,7 +83,7 @@ Implemented Features Descriptions
 
 •	Penalty method used somewhere: Spring separation added in ImpulseResolveCollision() in PhysicsSystem.cpp, also is used in Level 1 to make attach a sphere to the player ball as an obstacle – AttachSpringTo() and UpdateSprings() in GameObject.cpp;
 
-**Stateful Behaviour: 
+**Stateful Behaviour: **
 
 •	Simple menu implemented: Yes, CreateMenu() and DrawMenu() in CourseworkGame.cpp;
 
@@ -91,7 +91,7 @@ Implemented Features Descriptions
 
 •	Multiple different obstacle types: Yes, obstacles include spinning, moving platforms, state-based enemy ball, and a spring-attached sphere.
 
-Gameplay Effects: 
+**Gameplay Effects: **
 
 •	Player can collect bonuses: Yes, player can collect bonuses in both levels;
 
@@ -103,7 +103,7 @@ Gameplay Effects:
 
 •	Simple menu implemented: Yes, player is shown the menu upon launching the game. Additional info prompting the player to either return to menu or restart the level appear when losing or winning a level;
 
-Advanced AI:
+**Advanced AI:**
 
 •	AI Opponent present: Yes, level 2 features an enemy ball – EnemyBallAI.cpp in CSC8503Common;
 
@@ -115,7 +115,7 @@ Advanced AI:
 
 •	AI can teleport/respawn if necessary: The AI will respawn in its original starting position if the player is caught or the level is restarted;
 
-Pathfinding: 
+**Pathfinding: **
 
 •	Grid-based pathfinding demonstrated: Level 2 is designed using grid tiles. The AI pathfinding uses the grid to traverse the level. NavigationGrid.cpp has a function UpdateGrid() to print the real-time grid to console that shows positions of the walls, enemy and player. This function is called (will be commented out upon submission) in UpdateGame() in CourseworkGame.cpp; 
 
@@ -123,20 +123,20 @@ Pathfinding:
 
 •	AI can follow path: Yes, the AI will follow the found path – followPlayer() and moveToBonus() in EnemyBallAI.cpp. Both functions have code that draws the path (will be commented out on submission);
 
-Constraints: 
+**Constraints: **
 
 •	Position constraint demonstrated: Yes, demonstrated in the menu, as well as level 2 where some obstacles use position constraints;
 
 •	An obstacle uses constraints: Yes, same as previous point;
 
 
-Advanced Collision Resolution: 
+**Advanced Collision Resolution: **
 
 •	Penalty method used somewhere: Penalty method used only in level 1 with the sphere that follows the player; couldn’t figure out where to use it in level 2;
 
 •	Friction applied during resolution: Yes - ImpulseResolveCollision() in PhysicsSystem.cpp;
 
-Advanced Collision Detection:
+**Advanced Collision Detection:**
 
 •	Capsule vs Sphere: Yes – CapsuleSphereIntersection() in CollisionDetection.cpp;
 
@@ -144,6 +144,6 @@ Advanced Collision Detection:
 
 •	Spatial Acceleration Structures used: Yes, QuadTree implemented from tutorial notes and used for level 1 - QuadTree.h. Switched to basic collision detection for level 2 because it gave better performance (Try pressing ‘B’ to switch to quad trees in level 2);
 
-Advanced Menu: 
+**Advanced Menu: **
 
 •	User can select different game types: Yes, using the main menu;
